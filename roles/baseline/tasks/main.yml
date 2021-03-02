@@ -13,6 +13,7 @@
       - git
       - chrony
       - stow
+      - bat
     state: present
 
 - name: distro specific packages
